@@ -12,7 +12,7 @@ A conic section is formed by slicing a cone at different angles.
 
 **General Equation:**
 
-\$[ x^2 + y^2 = r^2 \]
+$[ x^2 + y^2 = r^2 \]
 
 **Shape Description:** A perfect round shape with all points equidistant from the center.
 
